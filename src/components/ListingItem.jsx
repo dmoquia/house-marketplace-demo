@@ -20,7 +20,7 @@ function ListingItem({ listing, id, onDelete, onEdit }) {
         ) : (
           <img
             src="https://via.placeholder.com/300x200"
-            alt="No image available"
+            alt="No available"
             className="categoryListingImg"
           />
         )}
